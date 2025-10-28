@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my First Git Repository.
 <br>
-Author -Aditi Khandale
+Author -Aditi (Khandale)
